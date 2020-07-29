@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorWhite">#ffffff</color>
+    <color name="geofenceBlueColor">#0062A8</color>
+    <color name="geofenceEnterColor">#4CAF50</color>
+    <color name="geofenceExitColor">#F44336</color>
+    <color name="dialogTextColor">#000000</color>
+    <color name="lightGray">#ABABAB</color>
+</resources>

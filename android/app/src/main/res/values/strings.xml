@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeofencingAndroidDialogs</string>
+    <string name="identifier_dialog_txt_format">Identifier: %s</string>
+    <string name="name_dialog_txt_format">Name: %s</string>
+    <string name="radius_dialog_txt_format">Radius: %s</string>
+    <string name="location_dialog_txt_format">Location: %s, %s</string>
+    <string name="header_dialog_txt">You have %s a geofence!</string>
+    <string name="sub_header_dialog_txt">MainActivity is %s.</string>
+</resources>
