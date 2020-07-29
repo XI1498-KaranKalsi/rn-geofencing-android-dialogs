@@ -2,7 +2,7 @@
 An example to show native Android dialogs on geofence event
 
 
-#Steps
+# Steps
 1) yarn
 2) react-native run-android
 3) Add a geofence
